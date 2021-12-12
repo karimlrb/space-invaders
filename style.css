@@ -1,3 +1,6 @@
+body {
+  background: #000;
+}
 .grille {
   display: flex;
   flex-wrap: wrap;
@@ -20,6 +23,7 @@
 h3 {
   text-align: center;
   margin: 20px 0;
+  color: #fff;
 }
 .grille div {
   width: 25px;

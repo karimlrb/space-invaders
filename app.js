@@ -123,7 +123,7 @@ function bougerLesAliens() {
   }
 }
 
-invaderId = setInterval(bougerLesAliens, 1000);
+invaderId = setInterval(bougerLesAliens, 500);
 
 // Le laser
 function tirer(e) {
